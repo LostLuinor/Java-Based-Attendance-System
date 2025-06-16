@@ -19,12 +19,12 @@ This is a Java-based attendance system that uses OpenCV (via JavaCPP) for face d
 
 ## Directory Structure
 ```
-attendance-system/
+Java-Based-Attendance-System/
 ├── data/
 │   ├── haarcascade_frontalface_alt2.xml
 │   ├── studentData.csv
 │   ├── attendanceSheet.csv
-│   └── lbph_model.yml
+│   └── lbph_model.zip
 ├── images/
 ├── src/
 │   └── main/
