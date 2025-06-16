@@ -1,0 +1,12 @@
+  <dependencies>
+     <dependency>
+         <groupId>org.bytedeco</groupId>
+         <artifactId>javacv-platform</artifactId>
+         <version>1.5.8</version>
+     </dependency>
+     <dependency>
+         <groupId>javax.mail</groupId>
+         <artifactId>javax.mail-api</artifactId>
+         <version>1.6.2</version>
+     </dependency>
+  </dependencies>
