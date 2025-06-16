@@ -33,7 +33,6 @@ Java-Based-Attendance-System/
 │               └── opencvcamera/
 │                   └── Camera.java
 ├── pom.xml
-├── .gitignore
 └── README.md
 ```
 ## Usage
