@@ -1,0 +1,1 @@
+The images which get captured will be stored in this folder
